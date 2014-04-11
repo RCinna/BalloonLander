@@ -1,4 +1,4 @@
 BalloonLander v.2
 =============
-Bonjour MASTER
+Bonjour THE MINETTE
 Pouet
